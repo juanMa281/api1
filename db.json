@@ -69,6 +69,20 @@
       "price": "200",
       "body": "Pechugas de pollo (453 g) ligeramente rebozadas, acompañadas de una salsa de limón, vino blanco y alcaparras; con jitomates y champiñones frescos. Las servimos con pasta capellini.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/pollo_picatta_abb_italiannis.jpg"
+    },
+    {
+      "id": 11,
+      "name": "RAVIOLI AL POMODORO",
+      "price": "200",
+      "body": "Ravioles rellenos de queso ricotta y espinacas, bañados con salsa pomodoro ligeramente picante, gratinados con queso mozzarella y parmesano",
+      "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/ravioli_pomodoro_italiannis.jpg"
+    },
+    {
+      "id": 12,
+      "name": "FETTUCCINI ALFREDO",
+      "price": "200",
+      "body": "La combinación más italiana. Disfruta una deliciosa pasta con queso parmesano.",
+      "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/fettuccini_alfredo_italiannis.jpg"
     }
   ],
   "profile":{
