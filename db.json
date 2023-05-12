@@ -3,6 +3,7 @@
 {
       "id": 1,
       "name": "CALAMARI FRITTI",
+      "category":"dellacucina",
       "price": "150",
       "body": "Suculentos arillos y tentáculos de calamar (311 g) delicadamente empanizados y fritos.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/calamari_fritti_italiannis.jpg"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "name": "PIZZA BOLOGNESA",
+      "category":"pizza",
       "price": "250",
       "body": "Masa deliciosa y artesanal, acompañada de nuestra tradicional salsa Bolognese (110 g), preparada con carne de res y la exquisita salsa de jitomate Italianni’s",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/07/bolognesa-essenza-italiannis.jpg"
@@ -17,6 +19,7 @@
     {
       "id": 3,
       "name": "PIZZA CLASSICA",
+      "category":"pizza",
       "price": "200",
       "body": "Una verdadera tradición. Exquisita combinación de salsiccia (salchicha) (63 g) italiana, champiñones, mezcla de pimientos, queso gorgonzola y queso mozzarella fresco.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/pizza_classica_italiannis.jpg"
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "name": "SPAGHETTI ALLA BOLOGNESE",
+      "category":"pasta",
       "price": "100",
       "body": "Prueba lo delicioso de la tradición. Spaghetti al dente, preparado con carne de res y la exquisita salsa de jitomate Italianni’s",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/spaghetti_alla_bolognese_italiannis.jpg"
@@ -31,6 +35,7 @@
     {
       "id": 5,
       "name": "LASAGNA ALLA BIANCINI",
+      "category":"pasta",
       "price": "175",
       "body": "¡Un delicioso motivo para compartir! Generosa porción de lasagna con espinacas, champiñones, salsa alla bolognese, mozzarella y cubierta con salsa marinara.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/lasagna_alla_biancini_italiannis.jpg"
@@ -38,6 +43,7 @@
     {
       "id": 6,
       "name": "PASTA AL FORNO",
+      "category":"pasta",
       "price": "145",
       "body": "Pasta penne salteada con nuestras salsas marinara y bolognesa, queso ricotta todo gratinado con queso mozzarella y parmesano. Una receta que reúne los sabores más italianos.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/pasta_al_forno_italiannis.jpg"
@@ -45,6 +51,7 @@
     {
       "id": 7,
       "name": "POLLO MILANESE",
+      "category":"dellacucina",
       "price": "190",
       "body": "Pechugas de pollo a la parrilla (255 g), servidas sobre una salsa de queso gorgonzola y espinacas, cubiertas de fresco jitomate y alcaparras.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2023/03/pollo-milanese.jpg"
@@ -52,6 +59,7 @@
     {
       "id": 8,
       "name": "SALMONE AL LIMONE",
+      "category":"dellacucina",
       "price": "150",
       "body": "Filete de salmón asado a la parrilla (226 g), con una salsa tersa de limón, servido con pasta fettuccini al burro.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/salmone_al_limone_abb_italiannis.jpg"
@@ -59,6 +67,7 @@
     {
       "id": 9,
       "name": "POLLO ALLA PARMIGIANA",
+      "category":"dellacucina",
       "price": "130",
       "body": "Pechugas de pollo empanizadas a la romana (226 g), cubiertas con salsa marinara y gratinadas con queso mozzarella y parmesano. Acompañadas de spaguetti. ¡Un clásico que no te puedes perder!",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/pollo_alla_parmigiana_abb_italiannis.jpg"
@@ -66,6 +75,7 @@
     {
       "id": 10,
       "name": "POLLO PICATTA",
+      "category":"centros",
       "price": "200",
       "body": "Pechugas de pollo (453 g) ligeramente rebozadas, acompañadas de una salsa de limón, vino blanco y alcaparras; con jitomates y champiñones frescos. Las servimos con pasta capellini.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/pollo_picatta_abb_italiannis.jpg"
@@ -73,6 +83,7 @@
     {
       "id": 11,
       "name": "RAVIOLI AL POMODORO",
+      "category":"pasta",
       "price": "200",
       "body": "Ravioles rellenos de queso ricotta y espinacas, bañados con salsa pomodoro ligeramente picante, gratinados con queso mozzarella y parmesano",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/ravioli_pomodoro_italiannis.jpg"
@@ -80,6 +91,7 @@
     {
       "id": 12,
       "name": "FETTUCCINI ALFREDO",
+      "category":"pasta",
       "price": "200",
       "body": "La combinación más italiana. Disfruta una deliciosa pasta con queso parmesano.",
       "img": "https://italiannis.com.mx/wp-content/uploads/2022/05/fettuccini_alfredo_italiannis.jpg"
